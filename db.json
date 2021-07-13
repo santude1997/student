@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Santu De",
+    "email": "santude@gmail.com",
+    "mobile": 12345678,
+    "dept": "MCA",
+    "marks": 80
+  },
+  {
+    "id": 2,
+    "name": "souvik de",
+    "email": "santu.de.fiem.mca18@teamfuture.in",
+    "mobile": 9064527639,
+    "dept": "mca",
+    "marks": 77
+  }
+]
