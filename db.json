@@ -1,4 +1,5 @@
 [
+  student{
   {
     "id": 1,
     "name": "Santu De",
@@ -15,4 +16,5 @@
     "dept": "mca",
     "marks": 77
   }
+}
 ]
